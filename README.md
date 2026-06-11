@@ -1,4 +1,4 @@
-readme_content = """# Analisador Sintático LL(1)
+# Analisador Sintático LL(1)
 
 Este é um projeto interativo de um **Analisador Sintático Preditivo LL(1)** desenvolvido em **React** com **TypeScript** e **Vite**. A aplicação permite validar sentenças com base em uma gramática específica, demonstrando de forma visual e passo a passo o comportamento da pilha de parsing, a tabela de análise $M[A, a]$ e os conjuntos *FIRST* e *FOLLOW*.
 
